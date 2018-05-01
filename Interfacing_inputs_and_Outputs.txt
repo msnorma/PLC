@@ -1,0 +1,5 @@
+Firstly you'll need foundation background on logic circuits (AND, OR..etc) Gates.
+Knowledge of ladder logic programming concept, check out: www.plcacademy.com/ladder-logic-tutorial/
+ 
+Siemens TIA PORTAL sofware
+PLC (Preferably S7-1200)
